@@ -1,0 +1,22 @@
+name: New Feature
+description: Request a new feature.
+labels: [ "addition/proposal", "needs implementer interest" ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        When filling out this form, please keep our [code of conduct](https://www.w3.org/policies/code-of-conduct/) in mind.
+  - type: textarea
+    attributes:
+      label: "What problem or gap are you trying to solve?"
+      validations:
+        required: true
+  - type: textarea
+    attributes:
+      label: "How would you suggest the problem be solved?"
+  - type: textarea
+    attributes:
+      value: "Is there any context that might be helpful? Links to explainer documents or discussions?"
+  - type: markdown
+    attributes:
+      value: "Thank you for your suggestion!"

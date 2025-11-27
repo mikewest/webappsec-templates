@@ -1,0 +1,15 @@
+name: New issue
+description: File an issue against this specification.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        When filling out this form, please keep our [code of conduct](https://www.w3.org/policies/code-of-conduct/) in mind.
+  - type: textarea
+    attributes:
+      label: "What is the issue you'd like to report?"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "Thank you for your contribution!"
