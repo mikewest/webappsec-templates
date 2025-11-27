@@ -9,14 +9,14 @@ body:
   - type: textarea
     attributes:
       label: "What problem or gap are you trying to solve?"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: "How would you suggest the problem be solved?"
   - type: textarea
     attributes:
-      value: "Is there any context that might be helpful? Links to explainer documents or discussions?"
+      label: "Is there any context that might be helpful? Links to explainer documents or discussions?"
   - type: markdown
     attributes:
       value: "Thank you for your suggestion!"
