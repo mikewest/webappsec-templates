@@ -22,4 +22,4 @@ editors.
 - [ ] MDN issue is filed: … <!-- https://github.com/mdn/content/issues/new/choose -->
 - [ ] The top of this PR includes a clear commit message to use.
 
-(See our [contributing guidelines](https://github.com/mikewest/webappec-templates/blob/main/CONTRIBUTING.md) for more details
+(See our [contributing guidelines](https://github.com/mikewest/webappec-templates/blob/main/CONTRIBUTING.md) for more details.)
